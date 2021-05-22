@@ -1,4 +1,4 @@
-# GoogleCalender_Project
+# Event Management System
 
 There is always chaos in remembering exam dates, submission deadlines, etc. Other than this a proof of an event on a certain date for attendance is always scattered and due to the loss of proof the genuine attendance is also lost.
 
